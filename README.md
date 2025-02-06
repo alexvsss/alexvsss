@@ -1,9 +1,20 @@
-# How an eighteen years old student can become good at Github
+# Comment utiliser Github
 
+Je me présente je suis Alex Vassas élève en première année de BTS-NDRC. 
 
+GitHub est une plateforme de développement qui permet de collaborer sur des projets de code. Dans cet article, nous allons aborder les bases pour bien démarrer avec GitHub.
 
-* - 🌱 I’m currently learning How to use github. My main objective is to reach level 4 before everyone in order to get a good marks.*
+## 1. Créer un compte GitHub
 
+La première étape pour utiliser GitHub est de créer un compte. Rendez-vous sur le site officiel de GitHub à l'adresse suivante :
 
-(title)https://github.com/alexvsss/alexvsss/edit/main/README.md#L1C56
+[Inscription GitHub](https://github.com)
+
+## 2. Créer un nouveau dépôt
+
+Une fois inscrit, vous pouvez créer un nouveau projet. Pour cela, cliquez sur le bouton "New repository" dans l'interface GitHub.
+
+### Étapes pour créer un dépôt :
+1. Entrez un nom pour votre dépôt.
+2. Choisissez si le dépôt sera public ou privé.
 
